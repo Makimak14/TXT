@@ -1,0 +1,10 @@
+	Hard skills:
+1. Codes_HTTP
+2.GitBash
+3.JSON,XML_scrutrure
+4.API_test
+5.DevTools
+	Soft skills:
+1.Self_learning
+2.search_information
+3.teamwork
