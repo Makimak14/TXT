@@ -1,3 +1,4 @@
-Dosent work
-works again
-Dosent work
+Name - The Close button in the Customer form is not active
+Steps - Open the Main form, Click the New button, Click the Close button
+Expected Result - The Customer Form Is Closed
+Actual Result - The close button is not active
